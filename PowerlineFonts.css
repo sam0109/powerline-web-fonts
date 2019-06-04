@@ -38,6 +38,12 @@
 }
 
 @font-face {
+    font-family: "Inconsolata-nerdfont";
+    src: local("Inconsolata for NerdFont"),
+         url(fonts/Inconsolata-nerd-font-complete-mono.woff2) format('woff2');
+}
+
+@font-face {
     font-family: "Iosevka";
     src: local("Iosevka"),
          url(fonts/iosevka-term-medium.woff2) format('woff2');
